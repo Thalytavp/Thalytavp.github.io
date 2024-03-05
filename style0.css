@@ -1,0 +1,140 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+*, html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+section{
+  width: 95vw;
+  height: 200vh;
+}
+.container {
+  width: 100%;
+  height: 100%;
+}
+.red {
+  background-color: white;
+}
+.blue{
+  background-color: white;
+}
+h1 {
+  color: #222;
+  font-size: 35px;
+}
+.payborder {
+  border: solid 2px navy;
+  border-radius: 10px;
+  color: black;
+  background-color: #ffffff;
+  text-align: center;
+  font-family: Courier New;
+  font-weight: bold;
+}
+.how{
+  border: solid 2px navy;
+  margin: 10px;
+  padding: 10px;
+  text-align: justify;
+  font-family: Times New Roman;
+  font-weight: normal;
+  font-size: 16px;
+}
+p {
+  color: black;
+  font-family: Courier New;
+  font-weight: bold;
+  font-size: 1.5vh;
+}
+#puisi{
+  padding-top: 10px;
+}
+#ucapan{
+  padding-top: 10px;
+}
+#cerita{
+  padding-top: 10px;
+}
+.navwrapper {
+  width: 100%;
+  height: 80px;
+  background-color: navy;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.contentwrapper1 {
+  margin-top: 80px;
+  margin-left: 30px;
+  padding-right: 20px;
+  width: 100%;
+  height: 100%;
+}
+.contentwrapper {
+  margin-top: 90px;
+  margin-left: 30px;
+  padding-right: 20px;
+  margin-bottom: 500px;
+  width: 100%;
+  height: 100%;
+  text-align: justify;
+}
+.navigation {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100%;
+}
+.nav{
+  list-style-type: none;
+  padding: 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+.nav:hover {
+  background-color: white;
+  border-radius: 10px;
+  transition: all ease-in-out .25s;
+}
+.nav:hover>a {
+  color: #222;
+}
+.navlink{
+  color: white;
+  font-family: Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  text-decoration: none;
+}
+footer{
+  width: 100%;
+  height: 70px;
+  color: white;
+  background-color: navy;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding: 0px;
+  margin-top: 0px;
+  align-items: center;
+  text-align: center;
+  font-family: Helvetica;
+}
+.top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  position: fixed;
+  bottom: 35px;
+  right: 35px;
+  width: 65px;
+  height: 65px;
+  background-color: navy;
+  border-radius: 15px;
+  cursor: pointer;
+}

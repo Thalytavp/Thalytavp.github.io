@@ -2,7 +2,7 @@ body {
   font-family: sans-serif;
   margin: 40px auto;  /* Center the box horizontally with 'auto' margins */
   width: 350px;
-  height: 160px;
+  height: 120px;
   padding: 20px;
   border: 1px solid black;
   border-radius: 5px;
@@ -15,7 +15,7 @@ h1 {
 }
 
 p {
-  /* Add styles for paragraphs if needed */
+  text-align: center; /* Add styles for paragraphs if needed */
 }
 
 input[type="password"] {
@@ -31,7 +31,7 @@ input[type="password"] {
 
 button {  /* Add a class for the button styles */
   padding: 10px 20px;
-  margin-top: 20px;
+  margin: 40px;
   background-color: navy; /* Color the button */
   color: white;
   border: none;

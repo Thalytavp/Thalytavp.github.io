@@ -2,7 +2,7 @@ body {
   font-family: sans-serif;
   margin: 40px auto;  /* Center the box horizontally with 'auto' margins */
   width: 350px;
-  height: 190px;
+  height: 160px;
   padding: 20px;
   border: 1px solid black;
   border-radius: 5px;
@@ -26,6 +26,7 @@ input[type="password"] {
   border-radius: 4px;
   width: 300px;
   align-items: center;
+  text-align: center;
 }
 
 button {  /* Add a class for the button styles */

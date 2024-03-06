@@ -31,7 +31,7 @@ input[type="password"] {
 
 button {  /* Add a class for the button styles */
   padding: 10px 20px;
-  margin: 40px;
+  margin: 20px;
   background-color: navy; /* Color the button */
   color: white;
   border: none;

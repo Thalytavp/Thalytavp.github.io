@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif;
   margin: 40px auto;  /* Center the box horizontally with 'auto' margins */
-  width: 350px;
+  width: 330px;
   padding: 20px;
   border: 1px solid black;
   border-radius: 5px;
@@ -23,7 +23,7 @@ input[type="password"] {
   padding: 10px;
   border: 1px solid black;
   border-radius: 4px;
-  width: 300px;
+  width: 290px;
   align-items: center;
   text-align: center;
 }

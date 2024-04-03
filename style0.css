@@ -100,7 +100,7 @@ p {
   border-radius: 10px;
   transition: all ease-in-out .25s;
 }
-.nav:hover>2 {
+.nav:hover>a {
   color: black;
 }
 .navlink{

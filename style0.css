@@ -24,7 +24,7 @@ section{
 }
 h1 {
   color: #222;
-  font-size: 30px;
+  font-size: 35px;
 }
 .payborder {
   border: solid 2px navy;
@@ -48,7 +48,7 @@ p {
   color: black;
   font-family: Courier New;
   font-weight: bold;
-  font-size: 1.75vh;
+  font-size: 1.6vh;
 }
 #puisi{
   padding-top: 15px;
